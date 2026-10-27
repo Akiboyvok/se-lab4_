@@ -1,0 +1,3 @@
+# Create a ship with stocked torpedo stores and the primary always fail
+GT4500,10,1,10,0
+TORPEDO,SINGLE  # should have fail from the primary store -> stops trying
